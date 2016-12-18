@@ -3,7 +3,7 @@ This is the code repository for [Principles of Data Science](https://www.packtpu
 ## About the Book
 Need to turn your skills at programming into effective data science skills? Principles of Data Science is created to help you join the dots between mathematics, programming, and business analysis. With this book, you’ll feel confident about asking—and answering—complex and sophisticated questions of your data to move from abstract and raw statistics to actionable ideas.
 ##Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+
 
 
 
